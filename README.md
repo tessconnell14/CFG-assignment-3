@@ -12,7 +12,7 @@
 - converting driving distance to town from mins to hours
 - stored procedure for increasing campsite costs by %
 
-Assignment requirements:
+**Assignment requirements:**
 + Create a database with at least 3 tables with several columns
 + Link tables using primary and foreign keys
 + Populate the database with at least 8 rows of mock data per table to show use of DML
