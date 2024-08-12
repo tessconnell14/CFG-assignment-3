@@ -1,6 +1,6 @@
 ⭐ This is my third assignment for the CFG degree (Spring '23)
 
-📊 I designed and built a database of the Great Walks in Aotearoa New Zealand
+📊 I designed and built a database of the Great Walks in Aotearoa New Zealand using MySQL
 
 🗺️ I wrote queries for:
 - walks that take an hour or under to drive to from the closest town
